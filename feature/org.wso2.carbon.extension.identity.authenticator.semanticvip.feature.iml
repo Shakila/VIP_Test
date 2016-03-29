@@ -8,7 +8,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="org.wso2.carbon.extension.identity.authenticator.semanticvip.connector" />
+    <orderEntry type="module" module-name="org.wso2.carbon.extension.identity.authenticator.symantecvip.connector" />
     <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.1" level="project" />
     <orderEntry type="library" name="Maven: org.wso2.carbon.identity:org.wso2.carbon.idp.mgt:5.0.7" level="project" />
     <orderEntry type="library" name="Maven: opensaml.wso2:opensaml2:2.4.1.wso2v1" level="project" />

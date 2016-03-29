@@ -17,7 +17,7 @@
  *
  */
 
-package org.wso2.carbon.identity.authenticator.semanticvip;
+package org.wso2.carbon.identity.authenticator.symantecvip;
 
 import org.apache.axiom.om.OMAttribute;
 import org.apache.axiom.om.OMElement;

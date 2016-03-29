@@ -3,7 +3,7 @@
 // maven pom organized by organization.
 // ------------------------------------------------------------------
 
-WSO2 Carbon - identity Semantic VIP Feature
+WSO2 Carbon - identity Symantec VIP Feature
 
 
 From: 'an unknown organization'
@@ -351,7 +351,7 @@ From: 'WSO2' (http://www.wso2.org/)
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - WSO2 Carbon - WSDL2Form (http://wso2.org/org.wso2.carbon.wsdl2form) org.wso2.carbon.commons:org.wso2.carbon.wsdl2form:bundle:4.4.8
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
-  - WSO2 Carbon - Authenticator Library For Semantic VIP (http://wso2.org) org.wso2.carbon.extension.identity.authenticator:org.wso2.carbon.extension.identity.authenticator.semanticvip.connector:bundle:1.0.0
+  - WSO2 Carbon - Authenticator Library For Symantec VIP (http://wso2.org) org.wso2.carbon.extension.identity.authenticator:org.wso2.carbon.extension.identity.authenticator.symantecvip.connector:bundle:1.0.0
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
   - WSO2 Carbon - Claim Management BE (http://wso2.org) org.wso2.carbon.identity:org.wso2.carbon.claim.mgt:bundle:5.0.7
     License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)

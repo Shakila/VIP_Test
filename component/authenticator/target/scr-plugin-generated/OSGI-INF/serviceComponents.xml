@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><components xmlns:scr="http://www.osgi.org/xmlns/scr/v1.0.0">
-    <scr:component enabled="true" immediate="true" name="identity.application.authenticator.SemanticVIP.component">
-        <implementation class="org.wso2.carbon.identity.authenticator.semanticvip.internal.SemanticVIPAuthenticatorServiceComponent"/>
-        <property name="service.pid" value="identity.application.authenticator.SemanticVIP.component"/>
+    <scr:component enabled="true" immediate="true" name="identity.application.authenticator.SymantecVIP.component">
+        <implementation class="org.wso2.carbon.identity.authenticator.symantecvip.internal.SymantecVIPAuthenticatorServiceComponent"/>
+        <property name="service.pid" value="identity.application.authenticator.SymantecVIP.component"/>
     </scr:component>
 </components>
